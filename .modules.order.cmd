@@ -1,0 +1,1 @@
+cmd_/home/sami/projects/linux-kernel-fileio-test/modules.order := {   echo /home/sami/projects/linux-kernel-fileio-test/device_file_lkm.ko; :; } | awk '!x[$$0]++' - > /home/sami/projects/linux-kernel-fileio-test/modules.order

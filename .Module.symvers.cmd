@@ -1,0 +1,1 @@
+cmd_/home/sami/projects/linux-kernel-fileio-test/Module.symvers := sed 's/ko$$/o/' /home/sami/projects/linux-kernel-fileio-test/modules.order | scripts/mod/modpost -m -a   -o /home/sami/projects/linux-kernel-fileio-test/Module.symvers -e -i Module.symvers   -T -

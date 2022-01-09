@@ -1,0 +1,1 @@
+cmd_/home/sami/projects/linux-kernel-fileio-test/device_file_lkm.mod := { echo  /home/sami/projects/linux-kernel-fileio-test/device_file_lkm.o;  echo; } > /home/sami/projects/linux-kernel-fileio-test/device_file_lkm.mod

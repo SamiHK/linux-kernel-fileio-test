@@ -1,0 +1,1 @@
+cmd_/home/sami/projects/linux-kernel-fileio-test/device_file_lkm.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/sami/projects/linux-kernel-fileio-test/device_file_lkm.ko /home/sami/projects/linux-kernel-fileio-test/device_file_lkm.o /home/sami/projects/linux-kernel-fileio-test/device_file_lkm.mod.o;  true
