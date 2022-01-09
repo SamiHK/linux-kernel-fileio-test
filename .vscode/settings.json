@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "fcntl.h": "c",
+        "types.h": "c",
+        "stat.h": "c",
+        "kernel.h": "c",
+        "fs.h": "c",
+        "module.h": "c"
+    }
+}
